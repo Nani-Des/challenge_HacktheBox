@@ -1,0 +1,1 @@
+DevOps have come up with a great way to choose primes for RSA and an even better way to established a key for AES.&lt;br&gt;can you find the  flaws?&lt;br&ght;Flag Format: HTB{flag}
